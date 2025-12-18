@@ -60,8 +60,12 @@ python gui_app.py
 ---
 
 ## 📸 Application Preview
+<img width="760" height="620" alt="Screenshot 2025-12-18 at 7 15 28 PM" src="https://github.com/user-attachments/assets/288aa36d-5ae7-41e8-818d-5a084df3e4d8" />
 
-*(Add screenshots of the GUI here)*
+<img width="574" height="304" alt="Screenshot 2025-12-18 at 7 19 09 PM" src="https://github.com/user-attachments/assets/b95e17f0-41e4-4999-b32a-936a921c78a1" />
+
+
+
 
 ---
 
@@ -90,16 +94,13 @@ This project is developed **strictly for educational purposes**. The recommendat
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
 ## 👨‍💻 Author
 
 **Anshu Sharma**
-Python & AI Enthusiast
+**VIT BHOPAL**
 
 ---
 
