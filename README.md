@@ -104,4 +104,6 @@ This project is developed **strictly for educational purposes**. The recommendat
 
 ---
 
-⭐ If you find this project useful, please consider giving it a star!
+⭐ If you find this project useful, please consider giving it a star! 
+and 
+follow and share
